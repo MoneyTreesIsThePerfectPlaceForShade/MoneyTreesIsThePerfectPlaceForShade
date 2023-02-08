@@ -1,4 +1,6 @@
 I’m Money Trees,
 because it's a perfect place to shade
 <hr>
-Tech stack: JS, CSS, HTML
+<br>
+Я Матвей, frontend разработчик.
+Мой стек: JS, CSS, HTML
