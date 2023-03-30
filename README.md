@@ -1,4 +1,4 @@
 ## Матвей, Frontend разработчик
 ```js
-Мой стек: JS, CSS+SCSS, HTML
+Мой стек: JS & TS, React, CSS+SCSS, HTML
 ```
