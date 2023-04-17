@@ -15,7 +15,7 @@
 </div>
 <br>
 
----
+<!-- ---
 
 <h1 align="center">Мои проекты</h1>
 
@@ -28,7 +28,7 @@
       <img width="700" src="img/sultan.png">
     </a>
   </td>
-  <td width="33%" valign="top" align="center">      
+  <td width="33%" valign="top" align="center">
     <a href="https://github.com/MoneyTreesIsThePerfectPlaceForShade/hotels-watch-layout">
       <p align="center">Лэндинг бренда</p>
       <img width="700" src="img/watch.png">
@@ -38,7 +38,7 @@
     <a href="https://github.com/MoneyTreesIsThePerfectPlaceForShade/countries-info">
       <p align="center">Информация о стране</p>
       <img width="700" src="img/countries.png">
-    </a>    
+    </a>
   </td>
  </tr>
-</table>
+</table> -->
