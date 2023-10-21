@@ -13,32 +13,3 @@
     <img  src='https://skillicons.dev/icons?i=git,github,md,vercel,figma'>
     </div>
 </div>
-<br>
-
-<!-- ---
-
-<h1 align="center">Мои проекты</h1>
-
-<h3 align="center">Web applications</h3>
-<table width="100%" >
- <tr>
-  <td width="33%" valign="top" align="center">
-    <a href="https://github.com/MoneyTreesIsThePerfectPlaceForShade/hotels-sultan-store">
-      <p align="center">Онлайн магазин</p>
-      <img width="700" src="img/sultan.png">
-    </a>
-  </td>
-  <td width="33%" valign="top" align="center">
-    <a href="https://github.com/MoneyTreesIsThePerfectPlaceForShade/hotels-watch-layout">
-      <p align="center">Лэндинг бренда</p>
-      <img width="700" src="img/watch.png">
-    </a>
-  </td>
-  <td width="33%" valign="top" align="center">
-    <a href="https://github.com/MoneyTreesIsThePerfectPlaceForShade/countries-info">
-      <p align="center">Информация о стране</p>
-      <img width="700" src="img/countries.png">
-    </a>
-  </td>
- </tr>
-</table> -->
