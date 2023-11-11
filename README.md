@@ -9,7 +9,7 @@
     </div>
     <h3 align="center">Второстепенные / Secondary</h3>
     <div align="center">
-    <img  src='https://skillicons.dev/icons?i=vue,vite,webpack,nodejs,jest'>
+    <img  src='https://skillicons.dev/icons?i=webpack,nodejs,jest'>
     <img  src='https://skillicons.dev/icons?i=git,github,md,vercel,figma'>
     </div>
 </div>
