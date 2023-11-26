@@ -5,7 +5,7 @@
     <h3 align="center">Основные / Primary</h3>
     <div align="center">
     <img  src='https://skillicons.dev/icons?i=js,ts,react,redux'>
-    <img  src='https://skillicons.dev/icons?i=html,css,scss,less'>
+    <img  src='https://skillicons.dev/icons?i=html,css,scss,bash'>
     </div>
     <h3 align="center">Второстепенные / Secondary</h3>
     <div align="center">
