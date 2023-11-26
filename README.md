@@ -5,11 +5,11 @@
     <h3 align="center">Основные / Primary</h3>
     <div align="center">
     <img  src='https://skillicons.dev/icons?i=js,ts,react,redux'>
-    <img  src='https://skillicons.dev/icons?i=html,css,scss,bash'>
+    <img  src='https://skillicons.dev/icons?i=html,css,scss,webpack'>
     </div>
     <h3 align="center">Второстепенные / Secondary</h3>
     <div align="center">
-    <img  src='https://skillicons.dev/icons?i=webpack,nodejs,jest'>
+    <img  src='https://skillicons.dev/icons?i=bash,nodejs,jest'>
     <img  src='https://skillicons.dev/icons?i=git,github,md,vercel,figma'>
     </div>
 </div>
