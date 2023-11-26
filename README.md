@@ -4,8 +4,8 @@
 <h2 align="center">Технологии / Technologies</h2>
     <h3 align="center">Основные / Primary</h3>
     <div align="center">
-    <img  src='https://skillicons.dev/icons?i=js,ts,react,next'>
-    <img  src='https://skillicons.dev/icons?i=html,css,scss,redux'>
+    <img  src='https://skillicons.dev/icons?i=js,ts,react,redux'>
+    <img  src='https://skillicons.dev/icons?i=html,css,scss,less'>
     </div>
     <h3 align="center">Второстепенные / Secondary</h3>
     <div align="center">
